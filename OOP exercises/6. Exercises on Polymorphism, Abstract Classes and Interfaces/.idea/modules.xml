@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/6. Exercises on Polymorphism, Abstract Classes and Interfaces.iml" filepath="$PROJECT_DIR$/.idea/6. Exercises on Polymorphism, Abstract Classes and Interfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_6.1/baitap_6.1.iml" filepath="$PROJECT_DIR$/baitap_6.1/baitap_6.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_6.2/baitap_6.2.iml" filepath="$PROJECT_DIR$/baitap_6.2/baitap_6.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_6.3/baitap_6.3.iml" filepath="$PROJECT_DIR$/baitap_6.3/baitap_6.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_6.4/baitap_6.4.iml" filepath="$PROJECT_DIR$/baitap_6.4/baitap_6.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_6.5/baitap_6.5.iml" filepath="$PROJECT_DIR$/baitap_6.5/baitap_6.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_6.6/baitap_6.6.iml" filepath="$PROJECT_DIR$/baitap_6.6/baitap_6.6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_6.7/baitap_6.7.iml" filepath="$PROJECT_DIR$/baitap_6.7/baitap_6.7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_6.8/baitap_6.8.iml" filepath="$PROJECT_DIR$/baitap_6.8/baitap_6.8.iml" />
+    </modules>
+  </component>
+</project>

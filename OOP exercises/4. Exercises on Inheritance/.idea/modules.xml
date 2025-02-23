@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/4. Exercises on Inheritance.iml" filepath="$PROJECT_DIR$/4. Exercises on Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_4.1/baitap_4.1.iml" filepath="$PROJECT_DIR$/baitap_4.1/baitap_4.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_4.2/baitap_4.2.iml" filepath="$PROJECT_DIR$/baitap_4.2/baitap_4.2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_4.3/baitap_4.3.iml" filepath="$PROJECT_DIR$/baitap_4.3/baitap_4.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_4.4/baitap_4.4.iml" filepath="$PROJECT_DIR$/baitap_4.4/baitap_4.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_4.5/baitap_4.5.iml" filepath="$PROJECT_DIR$/baitap_4.5/baitap_4.5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_4.6/baitap_4.6.iml" filepath="$PROJECT_DIR$/baitap_4.6/baitap_4.6.iml" />
+    </modules>
+  </component>
+</project>

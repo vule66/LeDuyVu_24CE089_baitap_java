@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/7. More Exercises on OOP.iml" filepath="$PROJECT_DIR$/.idea/7. More Exercises on OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_7.1/baitap_7.1.iml" filepath="$PROJECT_DIR$/baitap_7.1/baitap_7.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_7.2/baitap_7.2.iml" filepath="$PROJECT_DIR$/baitap_7.2/baitap_7.2.iml" />
+    </modules>
+  </component>
+</project>
