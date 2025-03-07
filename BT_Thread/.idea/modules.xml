@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/BT_Thread.iml" filepath="$PROJECT_DIR$/.idea/BT_Thread.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai_1-Race Condition/Bai_1-Race Condition.iml" filepath="$PROJECT_DIR$/Bai_1-Race Condition/Bai_1-Race Condition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai_2- Deadlock/Bai_2- Deadlock.iml" filepath="$PROJECT_DIR$/Bai_2- Deadlock/Bai_2- Deadlock.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai_3_Starvation/Bai_3_Starvation.iml" filepath="$PROJECT_DIR$/Bai_3_Starvation/Bai_3_Starvation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai_4_Thread Interruption/Bai_4_Thread Interruption.iml" filepath="$PROJECT_DIR$/Bai_4_Thread Interruption/Bai_4_Thread Interruption.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Bai_5_Memory Visibility Issue/Bai_5_Memory Visibility Issue.iml" filepath="$PROJECT_DIR$/Bai_5_Memory Visibility Issue/Bai_5_Memory Visibility Issue.iml" />
       <module fileurl="file://$PROJECT_DIR$/baitap_1/baitap_1.iml" filepath="$PROJECT_DIR$/baitap_1/baitap_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/baitap_2/baitap_2.iml" filepath="$PROJECT_DIR$/baitap_2/baitap_2.iml" />
       <module fileurl="file://$PROJECT_DIR$/baitap_3/baitap_3.iml" filepath="$PROJECT_DIR$/baitap_3/baitap_3.iml" />
