@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IOStreams.iml" filepath="$PROJECT_DIR$/.idea/IOStreams.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_1/baitap_1_in_out.iml" filepath="$PROJECT_DIR$/baitap_1/baitap_1_in_out.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_2_bufferedReader/baitap_2_bufferedReader.iml" filepath="$PROJECT_DIR$/baitap_2_bufferedReader/baitap_2_bufferedReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_3_bufferedReader2/baitap_3_bufferedReader2.iml" filepath="$PROJECT_DIR$/baitap_3_bufferedReader2/baitap_3_bufferedReader2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_4_data_Out_In/baitap_4_data_Out_In.iml" filepath="$PROJECT_DIR$/baitap_4_data_Out_In/baitap_4_data_Out_In.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_5_docFoder/baitap_5_docFoder.iml" filepath="$PROJECT_DIR$/baitap_5_docFoder/baitap_5_docFoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_doc_noi_dung_nhieu_file/baitap_doc_noi_dung_nhieu_file.iml" filepath="$PROJECT_DIR$/baitap_doc_noi_dung_nhieu_file/baitap_doc_noi_dung_nhieu_file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_multi-threaded_file_Reading/baitap_multi-threaded_file_Reading.iml" filepath="$PROJECT_DIR$/baitap_multi-threaded_file_Reading/baitap_multi-threaded_file_Reading.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baitap_tim_kiem_tu_khoa/baitap_tim_kiem_tu_khoa.iml" filepath="$PROJECT_DIR$/baitap_tim_kiem_tu_khoa/baitap_tim_kiem_tu_khoa.iml" />
+    </modules>
+  </component>
+</project>
