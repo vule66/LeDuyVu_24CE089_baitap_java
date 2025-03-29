@@ -1,0 +1,27 @@
+<students>
+    <student id="1">
+        <name>Nguyễn Văn A</name>
+        <msv>20210001</msv>
+        <class>KTPM1</class>
+        <major>Kỹ thuật phần mềm</major>
+        <email>nguyenvana@example.com</email>
+    </student>
+
+    <student id="2">
+        <name>Trần Thị B</name>
+        <msv>20210002</msv>
+        <class>HTTT2</class>
+        <major>Hệ thống thông tin</major>
+        <email>tranthib@example.com</email>
+    </student>
+
+    <student id="3">
+        <name>Phạm Văn C</name>
+        <msv>20210003</msv>
+        <class>KHDL3</class>
+        <major>Khoa học dữ liệu</major>
+        <email>phamvanc@example.com</email>
+    </student>
+</students>
+
+        </students>
