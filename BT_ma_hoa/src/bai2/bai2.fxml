@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.SplitPane?>
+<?import javafx.scene.control.TableColumn?>
+<?import javafx.scene.control.TableView?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="bai2.Controller">
+    <children>
+        <SplitPane dividerPositions="0.3079" prefHeight="400.0" prefWidth="601.0">
+            <items>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="160.0" prefWidth="100.0">
+                    <children>
+                        <TextField fx:id="inputDulieu" layoutX="16.0" layoutY="113.0" prefWidth="149.0" />
+                        <Text layoutX="22.0" layoutY="98.0" text="Nhập dữ liệu cần mã hóa" wrappingWidth="137.8" />
+                        <Button fx:id="buttonMahoa" layoutX="16.0" layoutY="150.0" text="Mã hóa" />
+                    </children>
+                </AnchorPane>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="397.0" prefWidth="356.0">
+                    <children>
+                        <TableView fx:id="AEStable" layoutY="37.0" prefHeight="161.0" prefWidth="411.0">
+                            <columns>
+                                <TableColumn fx:id="AESEncrypted" prefWidth="204.7" text="AES Encrypted" />
+                                <TableColumn fx:id="AESDecrypted" prefWidth="206.0" text="AES Decrypted" />
+                            </columns>
+                        </TableView>
+                        <TableView fx:id="RSAtable" layoutY="235.0" prefHeight="161.0" prefWidth="411.0">
+                            <columns>
+                                <TableColumn fx:id="RSAEncrypted" prefWidth="200.0" text="RSA Encrypted" />
+                                <TableColumn fx:id="RSADecrypted" prefWidth="210.0" text="RSA Decrypted" />
+                            </columns>
+                        </TableView>
+                        <Label layoutX="185.0" text="AES">
+                            <font>
+                                <Font size="24.0" />
+                            </font>
+                        </Label>
+                        <Label layoutX="184.0" layoutY="199.0" text="RSA">
+                            <font>
+                                <Font size="24.0" />
+                            </font>
+                        </Label>
+                    </children>
+                </AnchorPane>
+            </items>
+        </SplitPane>
+    </children>
+</AnchorPane>
